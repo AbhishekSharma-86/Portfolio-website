@@ -37,8 +37,12 @@ h3{
 }
 
 .profile-img{
-    width: 9.375rem;
+    width: 150px;
     border-radius: 50%;
+}
+.mountain-img{
+    height: 17.5rem;
+    width: 23.625rem;
 }
 
 .intro{
